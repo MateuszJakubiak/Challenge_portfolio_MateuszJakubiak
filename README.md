@@ -11,3 +11,10 @@ Hej, jestem Mateusz biorę udział w projekcie aby poszerzyć swoją wiedzę na 
 Rezultat: Aplikacja zapisuje zmiany jakiegokolwiek zaznaczonego zawodnika.
 Oczekiwany rezultat: Aplikacja nie pozwala na zapisanie zmian dowolnego zawodnika tylko na dodanych samodzielnie lub osób które dostały dostęp do przypisanego konta.
 ##### Mateusz 😊
+## Task 2 
+### Subtask 1 
+https://drive.google.com/drive/folders/1zjh6dp18sHAk1FyhLbPm5sjpORlrrrL9
+### Subtask 2 
+https://drive.google.com/drive/folders/1zjh6dp18sHAk1FyhLbPm5sjpORlrrrL9
+### Subtask 3 
+Przypadki testowe są tworzone w określonym celu lub dla warunku testowego, jakim jest wykonanie danej ścieżki w programie lub zweryfikowanie zgodności z wymaganiem.
