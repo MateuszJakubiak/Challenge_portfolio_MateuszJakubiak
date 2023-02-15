@@ -32,3 +32,29 @@ https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 ### Subtask 3
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
+## Zadanie  5
+
+                                                                  SQL
+
+
+### Subtask 1 
+|Zapytania   | Operatory  |
+|---|---|
+|  SELECT - wybierz  |  BEETWEEN - w jakim zakresie pozwalamy na występowanie wartości. |
+|  GO - odgrodzenie | = - równości  |
+|  FROM - z |  < - mniejszości |
+| AS - jako  | > - większości  |
+|  ORDER BY - jest zawsze po SELECT oraz FROM | <> - różny niż  |
+|  DESC - descending, dotyczy tej kolumny po której ją wprowadziliśmy | LIKE - operator dla wartości tekstowych  |
+|   |  AND - i |
+|   | OR - lub  |
+|   | IS - jest  |
+
+
+ Wybieranie kolumn:
+SELECT ProductID, Name, Color, Size 
+FROM Production.Product
+
+Malejąco wg koloru i rosnąco wg nazwy:
+SELECT * FROM Production.Product
+ORDER BY Color DESC, Name
