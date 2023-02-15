@@ -58,3 +58,5 @@ FROM Production.Product
 Malejąco wg koloru i rosnąco wg nazwy:
 SELECT * FROM Production.Product
 ORDER BY Color DESC, Name
+### Subtask 2 
+Konfiguracja środowiska i wgranie bazy danych.
