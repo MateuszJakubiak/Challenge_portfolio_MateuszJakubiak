@@ -73,15 +73,28 @@ Konfiguracja środowiska i wgranie bazy danych.
 
 
 4.Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+![image](https://user-images.githubusercontent.com/122482305/219424081-9d5bb35c-0dcb-43d0-908f-b1a41ee3123c.png)
+
 
 5.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+![image](https://user-images.githubusercontent.com/122482305/219667032-c2b9d158-6e91-4b56-808a-8956747a0ec5.png)
+
 
 6.Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny
+![image](https://user-images.githubusercontent.com/122482305/219672551-8c5040c5-ee32-4a00-a5cc-5f948c4277dd.png)
+
 
 7.Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+![image](https://user-images.githubusercontent.com/122482305/219673192-cf08459c-0c37-44a7-98d4-6ffc9d005050.png)
 
 8.Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+![image](https://user-images.githubusercontent.com/122482305/219675937-e2ac3c66-a3d4-47d3-9ec3-c9ccad111a1b.png)
+
 
 9.Wyświetl dane klienta, który nie ma podanego adresu email.
+![image](https://user-images.githubusercontent.com/122482305/219676585-13e6e1f3-07a5-4aa3-ac46-d49959bdc674.png)
+
 
 10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+![image](https://user-images.githubusercontent.com/122482305/219679915-0eebb1ab-32a3-4a4f-8ab1-3b537ea2af87.png)
+
