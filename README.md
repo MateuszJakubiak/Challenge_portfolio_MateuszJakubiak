@@ -35,7 +35,7 @@ https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 ### Subtask 3
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
-## Zadanie  5
+## Task  5
 
                                                             SQL
 
@@ -101,7 +101,7 @@ Konfiguracja środowiska i wgranie bazy danych.
 10.Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 ![image](https://user-images.githubusercontent.com/122482305/219679915-0eebb1ab-32a3-4a4f-8ab1-3b537ea2af87.png)
 
-## TASK 6
+## Task 6
 
 ### Subtask 1 
 
