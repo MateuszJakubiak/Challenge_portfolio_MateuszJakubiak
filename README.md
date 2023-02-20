@@ -109,6 +109,11 @@ Ciąg dalszy zadań z SQL.
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
+![image](https://user-images.githubusercontent.com/122482305/220197535-0c84cc58-ecc3-4367-94fd-edbaa5dad005.png)
+
+![image](https://user-images.githubusercontent.com/122482305/220197721-24c998bb-a0bb-4a39-865f-d34b0dd5818b.png)
+
+
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
@@ -136,3 +141,10 @@ Ciąg dalszy zadań z SQL.
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
+### Subtask 2 
+
+Test wiedzy ECRU ze strony: http://getistqb.com/ 
+
+Zdjęcie wykonane z 1 podejścia do testu. :)
+
+![image](https://user-images.githubusercontent.com/122482305/220199284-13b05a03-89e6-4760-81da-6210135d694f.png)
