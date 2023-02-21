@@ -132,6 +132,8 @@ Ciąg dalszy zadań z SQL.
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
 
+![image](https://user-images.githubusercontent.com/122482305/220441320-ff0b72c1-6745-477f-8921-2f9623d0baa6.png)
+
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
