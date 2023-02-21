@@ -117,11 +117,17 @@ Ciąg dalszy zadań z SQL.
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
 
+![image](https://user-images.githubusercontent.com/122482305/220417194-89597d12-6f6e-4210-b300-c1a1731cff66.png)
+
 
 13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
 
+![image](https://user-images.githubusercontent.com/122482305/220419754-debfdaca-52e5-419d-9f91-cb14a7f9e05b.png)
+
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+![image](https://user-images.githubusercontent.com/122482305/220423982-7aad6b0c-816d-4342-94ee-e99aeefa25ab.png)
 
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
