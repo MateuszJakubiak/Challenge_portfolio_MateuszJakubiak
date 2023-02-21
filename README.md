@@ -137,17 +137,28 @@ Ciąg dalszy zadań z SQL.
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
+![image](https://user-images.githubusercontent.com/122482305/220446499-f3a22a66-d37a-479c-8be3-6d2f75856baa.png)
+
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+![image](https://user-images.githubusercontent.com/122482305/220448649-432f956a-f29c-4e82-aa59-ff0a3414bae9.png)
 
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
+![image](https://user-images.githubusercontent.com/122482305/220452451-138ed9bb-25ff-4b35-8ab5-6b2ee4b967b6.png)
+
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
+![image](https://user-images.githubusercontent.com/122482305/220460169-170deb35-2c5d-4ce5-85eb-578d06de2968.png)
+
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+
+![image](https://user-images.githubusercontent.com/122482305/220460472-47afe16a-9150-4110-b100-368bf26f1320.png)
+
 
 ### Subtask 2 
 
