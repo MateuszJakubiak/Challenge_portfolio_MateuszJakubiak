@@ -1,9 +1,12 @@
 # Challenge_portfolio_MateuszJakubiak
-## Subtask 1 
-Punkty: 5 
-### Subtask 3 
+
+## Task 1 - Testy eksploracyjne
+### Subtask 1 - Początkowy test wiedzy
+Punkty: 5/10
+### Subtask 2 - Stworzenie repozytorium w GitHub
+### Subtask 3 - About Me
 Hej, jestem Mateusz biorę udział w projekcie aby poszerzyć swoją wiedzę na temet testowania oraz po to żeby znależć pracę jako tester oprogramowania. Ludzie którymi się otaczam to programiści, Web deweloperzy, testerzy i to właśnie oni zarazili mnie środowiskiem IT.
-##### Subtask 4
+##### Subtask 4 - Początkowe testy eksploracyjne (poznanie aplikacji)
 **1.** Aplikacja służy do szerokopojętej specyfikacji zawodnika. Pozwala ona na stworzenie karty zawodnika w której możemy zapisywać takie statystyki jak gole, czas gry, którą nogą strzelił, z jakiej pozycji ( generuje się obraz boiska na którym możemy to zaznaczyć ), z jakiego jest klubu i wiele wiele innych. Aplikacja pozwala na sprawdzanie innych zawodników co ułatwia sprawdzanie mocnych oraz słabych stron danego piłkarza.
 
 **2.** Fukncjonalności w aplikacji jest wiele: - logowanie się za pomocą e-mail oraz hasła, - zapisanie wpisanych danych, - Automatyczne oblicznie procentowej skuteczności, - pobieranie statystyk graczy, - edycja, - zmiana jezyka strony. Cała strona jest intuicyjna ze wszystkim trzeba się obeznać ale łatwo jest ją obsługiwać. W mojej opini nie każdy powinien mieć dostę do zmiany statystyk innych zawodników, tylko osoba która stworzyła danego zawodnika powinna mieć dostęp do jego edycji.
@@ -14,33 +17,33 @@ Hej, jestem Mateusz biorę udział w projekcie aby poszerzyć swoją wiedzę na 
 Rezultat: Aplikacja zapisuje zmiany jakiegokolwiek zaznaczonego zawodnika.
 Oczekiwany rezultat: Aplikacja nie pozwala na zapisanie zmian dowolnego zawodnika tylko na dodanych samodzielnie lub osób które dostały dostęp do przypisanego konta.
 ##### Mateusz 😊
-## Task 2 
-### Subtask 1 
+## Task 2 - Test case
+### Subtask 1 - Pisanie przypadków testowych na podstawie User Story
 https://drive.google.com/drive/folders/1zjh6dp18sHAk1FyhLbPm5sjpORlrrrL9
-### Subtask 2 
+### Subtask 2 - Pisanie Przypadków testowych na podstawie własnych doświadczeń
 https://drive.google.com/drive/folders/1zjh6dp18sHAk1FyhLbPm5sjpORlrrrL9
-### Subtask 3 
+### Subtask 3 - Po co piszemy test case'y?
 Przypadki testowe są tworzone w określonym celu lub dla warunku testowego, jakim jest wykonanie danej ścieżki w programie lub zweryfikowanie zgodności z wymaganiem.
-## Task 3 
-### Subtask 1 
+## Task 3 - Raportowanie błędów
+### Subtask 1 - Formatka do zgłaszania błędów
 https://drive.google.com/drive/folders/1zamCQbRf0d-BuKtvudeN3K8eYrf7Go36
-## Subtask 2 
+## Subtask 2 - Testowanie według planów testów i raportowanie błędów
 https://drive.google.com/drive/folders/1zamCQbRf0d-BuKtvudeN3K8eYrf7Go36
-## Subtask 3 
+## Subtask 3 - Raport z wykonanych testów
 https://drive.google.com/drive/folders/1zamCQbRf0d-BuKtvudeN3K8eYrf7Go36
-## Task 4
-### Subtask 1 
+## Task 4 - Testowanie aplikacji mobilnych
+### Subtask 1 - Formatka do zgłaszania błędów systemu
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
-### Subtask 2
+### Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
-### Subtask 3
+### Subtask 3 - Do czego służy ta aplikacja?
 https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 ## Task  5
 
                                                             SQL
 
 
-### Subtask 1 
+### Subtask 1 - Kurs SQL oraz nowo poznane zagadnienia
 |Zapytania   | Operatory  |
 |---|---|
 |  SELECT - wybierz  |  BEETWEEN - w jakim zakresie pozwalamy na występowanie wartości. |
@@ -61,9 +64,9 @@ FROM Production.Product
 Malejąco wg koloru i rosnąco wg nazwy:
 SELECT * FROM Production.Product
 ORDER BY Color DESC, Name
-### Subtask 2 
+### Subtask 2 - Konfiguracja
 Konfiguracja środowiska i wgranie bazy danych.
-### Subtask 3
+### Subtask 3 - Praktyka
 1.Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![image](https://user-images.githubusercontent.com/122482305/219127136-8c321407-7085-4e49-9aac-d136935578e2.png)
 
