@@ -158,9 +158,14 @@ Ciąg dalszy zadań z SQL.
 ![image](https://user-images.githubusercontent.com/122482305/220460169-170deb35-2c5d-4ce5-85eb-578d06de2968.png)
 
 
-20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+20. Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
 ![image](https://user-images.githubusercontent.com/122482305/220460472-47afe16a-9150-4110-b100-368bf26f1320.png)
+
+21. Zamówienia dokonane przez osoby o nazwisku Rutkowski ułożone wg daty od najóźniej dokonanych.
+
+![image](https://user-images.githubusercontent.com/122482305/226177080-c9460acf-2232-421c-b5e7-39ff7349438e.png)
+
 
 
 ### Subtask 2 
