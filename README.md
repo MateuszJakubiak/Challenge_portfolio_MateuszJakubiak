@@ -46,15 +46,15 @@ https://drive.google.com/drive/folders/1gYDxBMEjppDIy-Sk8KkOWQVjT39-O51C
 ### Subtask 1 - Kurs SQL oraz nowo poznane zagadnienia
 |Zapytania   | Operatory  |
 |---|---|
-|  SELECT - wybierz  |  BEETWEEN - w jakim zakresie pozwalamy na występowanie wartości. |
-|  GO - odgrodzenie | = - równości  |
-|  FROM - z |  < - mniejszości |
-| AS - jako  | > - większości  |
-|  ORDER BY - jest zawsze po SELECT oraz FROM | <> - różny niż  |
-|  DESC - descending, dotyczy tej kolumny po której ją wprowadziliśmy | LIKE - operator dla wartości tekstowych  |
-|   |  AND - i |
-|   | OR - lub  |
-|   | IS - jest  |
+|  SELECT    |  BEETWEEN  |
+|  GO  | =  |
+|  FROM |  <  |
+| AS  | >   |
+|  ORDER BY  | <>  |
+|  DESC  | LIKE   |
+|  JOIN |  AND |
+| INSERT INTO  | OR   |
+| UPDATE  | IS   |
 
 
  Wybieranie kolumn:
